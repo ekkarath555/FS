@@ -8,28 +8,28 @@ import { Component, OnInit } from '@angular/core';
 export class DirectivesComponent implements OnInit {
   students = [
     {
-      name: 'Mickey',
-      email: 'Mickey@gmail.com',
+      name: 'Anthony',
+      email: 'anthony@gmail.com',
       major: 'Cs',
-      year: 'Second',
+      year: 'Third',
     },
     {
-      name: 'Minney',
-      email: 'Minney@gmail.com',
+      name: 'Jewwii',
+      email: 'jewwii@gmail.com',
       major: 'Cs',
-      year: 'THird',
+      year: 'Third',
     },
     {
-      name: 'duh',
-      email: 'duh@gmail.com',
-      major: 'SWE',
-      year: 'third',
+      name: 'Daniel',
+      email: 'daniel@gmail.com',
+      major: 'Ma',
+      year: 'Third',
     },
     {
-      name: 'huh',
-      email: 'huh@gmail.com',
-      major: 'SWE',
-      year: 'second',
+      name: 'Notto',
+      email: 'notto@gmail.com',
+      major: 'Ic',
+      year: 'Third',
     },
   ];
   constructor() {}
