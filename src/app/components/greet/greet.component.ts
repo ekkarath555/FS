@@ -10,7 +10,7 @@ export class GreetComponent implements OnInit {
 
   ngOnInit(): void {}
 
-  title: string = 'Welcome to my e-Store';
+  title: string = 'Welcome to my Car-Store';
   isDisabled = true;
   item: string = '';
   searchItem: string = '';
