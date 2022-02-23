@@ -8,8 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class DirectivesComponent implements OnInit {
   students = [
     {
-      name: 'Anthony',
-      email: 'anthony@gmail.com',
+      name: 'Stark',
+      email: 'stark_industries@gmail.com',
       major: 'Cs',
       year: 'Third',
     },
